@@ -3,22 +3,26 @@
 // This file is automatically updated during development when running `dev.ts`.
 
 import * as $$$$$$0 from "./sections/Card.tsx";
-import * as $$$$$$1 from "./sections/Footer.tsx";
-import * as $$$$$$2 from "./sections/Hero.tsx";
-import * as $$$$$$3 from "./sections/ParagraphList.tsx";
-import * as $$$$$$4 from "./sections/SimpleTextList.tsx";
-import * as $$$$$$5 from "./sections/Theme.tsx";
+import * as $$$$$$1 from "./sections/CardCadastroOfertas.tsx";
+import * as $$$$$$2 from "./sections/CardContato.tsx";
+import * as $$$$$$3 from "./sections/Footer.tsx";
+import * as $$$$$$4 from "./sections/Hero.tsx";
+import * as $$$$$$5 from "./sections/ParagraphList.tsx";
+import * as $$$$$$6 from "./sections/SimpleTextList.tsx";
+import * as $$$$$$7 from "./sections/Theme.tsx";
 import * as $$$$$$$$$$$0 from "./apps/decohub.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
 const manifest = {
   "sections": {
     "deco-sites/start/sections/Card.tsx": $$$$$$0,
-    "deco-sites/start/sections/Footer.tsx": $$$$$$1,
-    "deco-sites/start/sections/Hero.tsx": $$$$$$2,
-    "deco-sites/start/sections/ParagraphList.tsx": $$$$$$3,
-    "deco-sites/start/sections/SimpleTextList.tsx": $$$$$$4,
-    "deco-sites/start/sections/Theme.tsx": $$$$$$5,
+    "deco-sites/start/sections/CardCadastroOfertas.tsx": $$$$$$1,
+    "deco-sites/start/sections/CardContato.tsx": $$$$$$2,
+    "deco-sites/start/sections/Footer.tsx": $$$$$$3,
+    "deco-sites/start/sections/Hero.tsx": $$$$$$4,
+    "deco-sites/start/sections/ParagraphList.tsx": $$$$$$5,
+    "deco-sites/start/sections/SimpleTextList.tsx": $$$$$$6,
+    "deco-sites/start/sections/Theme.tsx": $$$$$$7,
   },
   "apps": {
     "deco-sites/start/apps/decohub.ts": $$$$$$$$$$$0,
