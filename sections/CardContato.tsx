@@ -15,7 +15,7 @@ export default function Card({
     <div class="card w-auto bg-black">
       <div class="card-body text-white">
         <h2 class="card-title font-bold justify-center items-center text-center m-4">
-          Entre em Contato
+          ENTRE EM CONTATO
         </h2>
         <div class="flex flex-col">
           <div class="flex flex-row justify-evenly m-2">
